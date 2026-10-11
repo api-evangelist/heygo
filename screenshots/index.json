@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "heygo",
+    "captured_at": "2026-10-11T190342",
+    "source_url": "https://www.heygo.com",
+    "source_type": "Website",
+    "file": "heygo-2026-10-11T190342.png",
+    "bytes": 80057,
+    "capture": "playwright-local"
+  }
+]
